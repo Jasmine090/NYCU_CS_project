@@ -1,5 +1,5 @@
 # NYCU_CS_project
-交大資工專題研究
-input/: input files(size 28*28 pixel)
-validation/ : the validation python files
-all.v : the final combined accelerator
+## 交大資工專題研究
+#### input/: input files(size 28*28 pixel)
+#### validation/ : the validation python files\n
+#### all.v : the final combined accelerator\n
